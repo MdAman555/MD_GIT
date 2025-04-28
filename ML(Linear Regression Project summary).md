@@ -23,4 +23,6 @@ Impact:
 Helps buyers and sellers make data-driven decisions.
 Demonstrates real-world application of machine learning in the real estate industry.
 ![🏡 Predicting House Prices - Linear Regression Project (Highlights)_page-0001](https://github.com/user-attachments/assets/9509fe03-0775-432e-9a19-056ff26b9cf7)
+![sus_page-0001](https://github.com/user-attachments/assets/cc322623-4537-45e9-a790-d8a9b9bd6881)
+
 
