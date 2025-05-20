@@ -1,0 +1,107 @@
+🛍️ Retail Sales Performance Dashboard
+📊 Super Store Sales Dashboard – Regional & Segment-wise Performance Insights
+
+🔹 Project Title: Super Store Sales – Performance Dashboard across Regions and Segments
+🔹 Purpose: A dynamic Power BI dashboard built to track and analyze key sales metrics such as Revenue, Quantity, Profit, Delivery Time, and Category-wise Sales across the US.
+
+🎯 Short Description / Purpose
+The retail chain is experiencing stagnation in sales and low profitability in certain regions. To uncover areas for growth and operational inefficiencies, a comprehensive dashboard was developed to explore historical sales and profit data across customer segments, product categories, and states.
+
+🛠️ Tech Stack
+Power BI Desktop – Data Visualization and Reporting
+
+Power Query Editor – Data Cleansing and Preparation
+
+DAX – Custom KPIs, Measures, and Time Intelligence
+
+Data Modeling – Relationships across tables (Orders, Products, Customers, Regions)
+
+File Format – .pbix (Project File), .png (Dashboard Snapshot)
+
+🔍 Key Features & Highlights
+✅ Business Problem
+
+Flat sales performance despite high delivery rates
+
+Variance in profit margins by category and segment
+
+No unified visibility into state-level or segment-wise performance
+
+🎯 Goal
+
+Visualize overall KPIs like Sales, Profit, Quantity
+
+Identify top- and bottom-performing regions, states, and product segments
+
+Improve understanding of shipping modes, payment methods, and customer segments
+
+📊 Visualizations
+KPI Cards: Sales, Quantity, Profit, Avg Delivery Days
+
+Donut Charts: Sales by Segment, Region Count, and Payment Mode
+
+Line Charts: Monthly and Yearly Sales & Profit Trends
+
+Bar Charts: Sales by Category, Sub-Category, Ship Mode
+
+Map Visual: State-wise Sales and Profit
+
+Time Series: Sales trend by Order Date
+
+Ranking Bar Chart: % Contribution of States to Total Sales
+
+💡 Insights & Business Impact
+Revenue Snapshot
+
+Total Sales: ₹522K
+
+Highest Revenue from Standard Class shipping mode (₹96K)
+
+Best-selling categories: Office Supplies and Technology
+
+Customer Segment Insights
+
+Consumer segment dominates with 44–49% of sales and region count
+
+Corporate and Home Office segments follow closely
+
+Shipping & Delivery
+
+Standard shipping most used but may impact delivery time
+
+Same-day shipping contributes least (₹11K), needs promotion
+
+State-Level Performance
+
+California, New York, and Texas are top revenue contributors
+
+Bottom states contribute less than 1% of overall sales
+
+Category & Sub-Category Trends
+
+Phones, Chairs, and Binders lead among sub-categories (each ~₹57K)
+
+Furniture category underperforms slightly despite wide product range
+
+Temporal Analysis
+
+Major sales spikes observed in Q1 2020
+
+October and December show noticeable sales dips despite holidays
+
+🧭 Actionable Recommendations
+Boost marketing efforts in underperforming states with high potential
+
+Promote fast shipping options like Same-Day for customer satisfaction
+
+Expand Consumer-focused campaigns as they drive the most revenue
+
+Introduce bundle deals for top-selling items (e.g., Phones + Accessories)
+
+Optimize pricing strategy during high-sales months for increased profit margin
+
+Analyze furniture category to determine product relevance or pricing issues
+
+🖼️ Dashboard Preview (Add Image)
+![search-ms:displayname=Search%20Results%20in%20md%20-%20Personal&crumb=System.Generic.String%3Aretail&crumb=location:C%3A%5CUsers%5Caman%5COneDrive]
+Alt text: Retail Sales Dashboard – Regional Analysis, KPIs, Shipping Trends, Time Series
