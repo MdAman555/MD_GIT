@@ -33,3 +33,6 @@ MDAMAN
  Certifications
 • NCC “C” Certificate in 2020 from the  West Bengal & Sikkim Directorate
   Graduation Certification of B.com Grade “B” (commerce) from Calcutta University
+ Data Analytics BottCamp certificate 
+ ![image](https://github.com/user-attachments/assets/bb69abf2-e9bd-4a0b-bc15-196732d76eb4)
+
